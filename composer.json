@@ -41,6 +41,8 @@
 		"paas": {
         		"document-root": "www",
         		"index-document": "index.php",
+        		"nginx-includes":["App/Config/nginx.conf"],
+        		"log-files": ["log/project/application.log"],
         		"compile": [
 					"php bin/change.phar change:generate-db-schema",
 					"php bin/change.phar change:register-plugin --all",
