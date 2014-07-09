@@ -4,7 +4,6 @@
 			"SaveHandler":{
 				"type":"redis",
 				"options":{
-					"database":0,
 					"ttl":900,
 					"namespace":"franck_dev_sess"
 				}
@@ -27,7 +26,7 @@
 			}
 		},
 		"Install":{
-			"webBaseDirectory":"",
+			"webBaseDirectory":"www",
 			"webBaseURLPath":""
 		},
 		"Cache":{

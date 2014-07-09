@@ -38,7 +38,7 @@
 		"rbs/workflow": "dev-master"
 	},
 	"extra": {
-        	"heroku": {
+		"paas": {
             		"document-root": "web",
             		"index-document": "index.php"
         	},
