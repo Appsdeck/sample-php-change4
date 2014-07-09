@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a7feff122f6b1f5f448b9a88e2608bfa",
+    "hash": "950c60a7a6d80eba83d596c33f7d900a",
     "packages": [
         {
             "name": "ircmaxell/password-compat",
@@ -1064,12 +1064,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/core.git",
-                "reference": "e580b9592134d988b9f93dc881746595cfcbde41"
+                "reference": "96eac8166d2142ad565d6e87a8f84a57f77430d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/core/zipball/e580b9592134d988b9f93dc881746595cfcbde41",
-                "reference": "e580b9592134d988b9f93dc881746595cfcbde41",
+                "url": "https://api.github.com/repos/RBSChange/core/zipball/96eac8166d2142ad565d6e87a8f84a57f77430d4",
+                "reference": "96eac8166d2142ad565d6e87a8f84a57f77430d4",
                 "shasum": ""
             },
             "require": {
@@ -1096,7 +1096,7 @@
                 "MPL-2.0"
             ],
             "description": "Core RBS Change Package",
-            "time": "2014-07-09 08:19:09"
+            "time": "2014-07-09 09:40:40"
         },
         {
             "name": "rbschange/plugin-installer",
