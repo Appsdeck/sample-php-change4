@@ -36,5 +36,12 @@
 		"rbs/website": "dev-master",
 		"rbs/wishlist": "dev-master",
 		"rbs/workflow": "dev-master"
-	}
+	},
+  "extra": {
+    "paas": {
+      "php-config": [
+        "display_errors=on"
+      ]
+    }
+  }
 }
