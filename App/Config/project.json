@@ -10,7 +10,7 @@
 			}
 		},
 		"Application":{
-			"development-mode":true
+			"development-mode":false
 		},
 		"Db":{
 			"use": "mysql"
