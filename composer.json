@@ -41,6 +41,9 @@
     "paas": {
       "php-config": [
         "display_errors=on"
+      ],
+      "compile": [
+        "php bin/change.phar rbs_website:add-default-website --baseURL=\"https://change-test-8jul.appsdeck.eu/index.php/\""
       ]
     }
   }
