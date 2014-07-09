@@ -1,22 +1,20 @@
 {
 	"Change":{
+		"Session":{
+			"SaveHandler":{
+				"type":"redis",
+				"options":{
+					"database":0,
+					"ttl":900,
+					"namespace":"franck_dev_sess"
+				}
+			}
+		},
 		"Application":{
 			"development-mode":true
 		},
 		"Db":{
-			"use": "mysql",
-			"mysql":{
-				"host":"localhost",
-				"user":"root",
-				"password":"",
-				"database":"rbschange",
-				"port":3306,
-				"longTransaction":10
-			},
-			"sqlite":{
-				"database":"App/sqlite.db",
-				"longTransaction":10
-			}
+			"use": "mysql"
 		},
 		"I18n":{
 			"supported-lcids":[
@@ -29,20 +27,11 @@
 			}
 		},
 		"Install":{
-			"webBaseDirectory":"www",
+			"webBaseDirectory":"",
 			"webBaseURLPath":""
 		},
 		"Cache":{
 			"block":false
-		}
-	},
-	"Rbs":{
-		"Elasticsearch":{
-			"clients":{
-				"front":{
-					"url":"http:\/\/localhost:9200\/"
-				}
-			}
 		}
 	}
 }
