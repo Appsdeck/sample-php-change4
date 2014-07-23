@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "950c60a7a6d80eba83d596c33f7d900a",
+    "hash": "92c067aefe82891d986051ba53c5eb0a",
     "packages": [
         {
             "name": "ircmaxell/password-compat",
@@ -33,7 +33,7 @@
             "authors": [
                 {
                     "name": "Anthony Ferrara",
-                    "email": "ircmaxell@php.net",
+                    "email": "ircmaxell@ircmaxell.com",
                     "homepage": "http://blog.ircmaxell.com"
                 }
             ],
@@ -197,7 +197,7 @@
             ],
             "authors": [
                 {
-                    "name": "Stephen Clay",
+                    "name": "Steve Clay",
                     "email": "steve@mrclay.org",
                     "homepage": "http://www.mrclay.org/",
                     "role": "Developer"
@@ -272,12 +272,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-admin.git",
-                "reference": "95fc135e0c530f403079d6baccf3571e2599a84b"
+                "reference": "6fdc8c3992cc678d6ed5ae32db2aa4f9fb5cfea2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-admin/zipball/95fc135e0c530f403079d6baccf3571e2599a84b",
-                "reference": "95fc135e0c530f403079d6baccf3571e2599a84b",
+                "url": "https://api.github.com/repos/RBSChange/module-admin/zipball/6fdc8c3992cc678d6ed5ae32db2aa4f9fb5cfea2",
+                "reference": "6fdc8c3992cc678d6ed5ae32db2aa4f9fb5cfea2",
                 "shasum": ""
             },
             "require": {
@@ -288,7 +288,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-09 08:19:09"
+            "time": "2014-07-17 15:03:28"
         },
         {
             "name": "rbs/base",
@@ -296,12 +296,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/theme-base.git",
-                "reference": "e96fea8b90495381a04df916320d40791a063308"
+                "reference": "9a785f32282165ba655504be27bc4dcf5eca6497"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/theme-base/zipball/e96fea8b90495381a04df916320d40791a063308",
-                "reference": "e96fea8b90495381a04df916320d40791a063308",
+                "url": "https://api.github.com/repos/RBSChange/theme-base/zipball/9a785f32282165ba655504be27bc4dcf5eca6497",
+                "reference": "9a785f32282165ba655504be27bc4dcf5eca6497",
                 "shasum": ""
             },
             "require": {
@@ -312,7 +312,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-08 15:27:53"
+            "time": "2014-07-10 16:30:36"
         },
         {
             "name": "rbs/brand",
@@ -344,12 +344,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-catalog.git",
-                "reference": "87443ee617aa292c22ccc31e43ce271c8e102185"
+                "reference": "2d2140dceffe70784a0f24a15c1c18c848667d34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-catalog/zipball/87443ee617aa292c22ccc31e43ce271c8e102185",
-                "reference": "87443ee617aa292c22ccc31e43ce271c8e102185",
+                "url": "https://api.github.com/repos/RBSChange/module-catalog/zipball/2d2140dceffe70784a0f24a15c1c18c848667d34",
+                "reference": "2d2140dceffe70784a0f24a15c1c18c848667d34",
                 "shasum": ""
             },
             "require": {
@@ -360,7 +360,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-09 08:19:09"
+            "time": "2014-07-21 09:15:03"
         },
         {
             "name": "rbs/collection",
@@ -368,12 +368,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-collection.git",
-                "reference": "5fccdc3a45f61585c7bb4d0b60b99e28d48a9dcc"
+                "reference": "8c1187c1f6ad79f4674cd959aad782c46d9a8659"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-collection/zipball/5fccdc3a45f61585c7bb4d0b60b99e28d48a9dcc",
-                "reference": "5fccdc3a45f61585c7bb4d0b60b99e28d48a9dcc",
+                "url": "https://api.github.com/repos/RBSChange/module-collection/zipball/8c1187c1f6ad79f4674cd959aad782c46d9a8659",
+                "reference": "8c1187c1f6ad79f4674cd959aad782c46d9a8659",
                 "shasum": ""
             },
             "require": {
@@ -384,7 +384,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-06-17 13:09:50"
+            "time": "2014-07-09 15:17:35"
         },
         {
             "name": "rbs/commerce",
@@ -392,12 +392,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-commerce.git",
-                "reference": "3f0367c5d8612f31ce867ced06014427a86aaf12"
+                "reference": "68302f8e9fcf84b35fef6a194c1ec2bb7c9a4254"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-commerce/zipball/3f0367c5d8612f31ce867ced06014427a86aaf12",
-                "reference": "3f0367c5d8612f31ce867ced06014427a86aaf12",
+                "url": "https://api.github.com/repos/RBSChange/module-commerce/zipball/68302f8e9fcf84b35fef6a194c1ec2bb7c9a4254",
+                "reference": "68302f8e9fcf84b35fef6a194c1ec2bb7c9a4254",
                 "shasum": ""
             },
             "require": {
@@ -408,7 +408,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-08 13:29:04"
+            "time": "2014-07-18 21:22:04"
         },
         {
             "name": "rbs/common",
@@ -416,12 +416,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/theme-common.git",
-                "reference": "a5d1df44d881b9b48d6540ce574963440194228d"
+                "reference": "a09597aa39a11da2e31fb6f514dbfe4c0b118696"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/theme-common/zipball/a5d1df44d881b9b48d6540ce574963440194228d",
-                "reference": "a5d1df44d881b9b48d6540ce574963440194228d",
+                "url": "https://api.github.com/repos/RBSChange/theme-common/zipball/a09597aa39a11da2e31fb6f514dbfe4c0b118696",
+                "reference": "a09597aa39a11da2e31fb6f514dbfe4c0b118696",
                 "shasum": ""
             },
             "require": {
@@ -432,7 +432,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-06-19 11:11:03"
+            "time": "2014-07-09 15:17:35"
         },
         {
             "name": "rbs/demo",
@@ -464,12 +464,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-dev.git",
-                "reference": "84f41275a23b516b32a5596a983e39371e1e0216"
+                "reference": "4d49156dfa8ca1032d3b1f682ef90e0bb5c4117e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-dev/zipball/84f41275a23b516b32a5596a983e39371e1e0216",
-                "reference": "84f41275a23b516b32a5596a983e39371e1e0216",
+                "url": "https://api.github.com/repos/RBSChange/module-dev/zipball/4d49156dfa8ca1032d3b1f682ef90e0bb5c4117e",
+                "reference": "4d49156dfa8ca1032d3b1f682ef90e0bb5c4117e",
                 "shasum": ""
             },
             "require": {
@@ -480,7 +480,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-06-20 13:18:32"
+            "time": "2014-07-21 09:15:03"
         },
         {
             "name": "rbs/discount",
@@ -512,12 +512,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-elasticsearch.git",
-                "reference": "2cac417b762bf0d6ac569f6df4c2e36f57b78b58"
+                "reference": "33f1ed5238b7f2b1c48f07bd83d672451d80da07"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-elasticsearch/zipball/2cac417b762bf0d6ac569f6df4c2e36f57b78b58",
-                "reference": "2cac417b762bf0d6ac569f6df4c2e36f57b78b58",
+                "url": "https://api.github.com/repos/RBSChange/module-elasticsearch/zipball/33f1ed5238b7f2b1c48f07bd83d672451d80da07",
+                "reference": "33f1ed5238b7f2b1c48f07bd83d672451d80da07",
                 "shasum": ""
             },
             "require": {
@@ -528,7 +528,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-08 13:29:04"
+            "time": "2014-07-21 09:15:03"
         },
         {
             "name": "rbs/generic",
@@ -536,12 +536,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-generic.git",
-                "reference": "dac2cb6d0fae01fc0979d033a0398117398dfd96"
+                "reference": "554bf48148fb2131d15dde6f405ff0309fbf2890"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-generic/zipball/dac2cb6d0fae01fc0979d033a0398117398dfd96",
-                "reference": "dac2cb6d0fae01fc0979d033a0398117398dfd96",
+                "url": "https://api.github.com/repos/RBSChange/module-generic/zipball/554bf48148fb2131d15dde6f405ff0309fbf2890",
+                "reference": "554bf48148fb2131d15dde6f405ff0309fbf2890",
                 "shasum": ""
             },
             "require": {
@@ -552,7 +552,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-09 08:06:28"
+            "time": "2014-07-18 21:22:04"
         },
         {
             "name": "rbs/geo",
@@ -584,12 +584,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-mail.git",
-                "reference": "70f32ada66959b3ba83c0abd671cf79345a22e81"
+                "reference": "52e3aad3d534111986440600aa41272ab498e0ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-mail/zipball/70f32ada66959b3ba83c0abd671cf79345a22e81",
-                "reference": "70f32ada66959b3ba83c0abd671cf79345a22e81",
+                "url": "https://api.github.com/repos/RBSChange/module-mail/zipball/52e3aad3d534111986440600aa41272ab498e0ee",
+                "reference": "52e3aad3d534111986440600aa41272ab498e0ee",
                 "shasum": ""
             },
             "require": {
@@ -600,7 +600,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-08 13:29:04"
+            "time": "2014-07-09 15:17:35"
         },
         {
             "name": "rbs/media",
@@ -608,12 +608,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-media.git",
-                "reference": "a7d9951fb35c74835eee82e79ce1ffb57a9d42cf"
+                "reference": "d7ed9079253edd22e56687088a8ae379d3b20dd7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-media/zipball/a7d9951fb35c74835eee82e79ce1ffb57a9d42cf",
-                "reference": "a7d9951fb35c74835eee82e79ce1ffb57a9d42cf",
+                "url": "https://api.github.com/repos/RBSChange/module-media/zipball/d7ed9079253edd22e56687088a8ae379d3b20dd7",
+                "reference": "d7ed9079253edd22e56687088a8ae379d3b20dd7",
                 "shasum": ""
             },
             "require": {
@@ -624,7 +624,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-08 15:16:46"
+            "time": "2014-07-09 15:17:34"
         },
         {
             "name": "rbs/notification",
@@ -680,12 +680,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-payment.git",
-                "reference": "aa05de40358f199e57c7faf2a7b4b748a3e66dcc"
+                "reference": "bf03a49f3ff5bb57e639feeda72125dc0fd33d6a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-payment/zipball/aa05de40358f199e57c7faf2a7b4b748a3e66dcc",
-                "reference": "aa05de40358f199e57c7faf2a7b4b748a3e66dcc",
+                "url": "https://api.github.com/repos/RBSChange/module-payment/zipball/bf03a49f3ff5bb57e639feeda72125dc0fd33d6a",
+                "reference": "bf03a49f3ff5bb57e639feeda72125dc0fd33d6a",
                 "shasum": ""
             },
             "require": {
@@ -696,7 +696,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-08 13:29:04"
+            "time": "2014-07-21 09:15:03"
         },
         {
             "name": "rbs/plugins",
@@ -752,12 +752,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-review.git",
-                "reference": "91c9daf051f6f5fa6235424d864ce7b8085914fe"
+                "reference": "c3278969683c76a84269b6d340a82723b83cd571"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-review/zipball/91c9daf051f6f5fa6235424d864ce7b8085914fe",
-                "reference": "91c9daf051f6f5fa6235424d864ce7b8085914fe",
+                "url": "https://api.github.com/repos/RBSChange/module-review/zipball/c3278969683c76a84269b6d340a82723b83cd571",
+                "reference": "c3278969683c76a84269b6d340a82723b83cd571",
                 "shasum": ""
             },
             "require": {
@@ -768,7 +768,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-08 13:29:04"
+            "time": "2014-07-09 15:17:35"
         },
         {
             "name": "rbs/seo",
@@ -776,12 +776,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-seo.git",
-                "reference": "61b57677452e5c66760c0b3eaf1e833ebb80e319"
+                "reference": "43671cc758500c7f08e01f77fb871460e5477f70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-seo/zipball/61b57677452e5c66760c0b3eaf1e833ebb80e319",
-                "reference": "61b57677452e5c66760c0b3eaf1e833ebb80e319",
+                "url": "https://api.github.com/repos/RBSChange/module-seo/zipball/43671cc758500c7f08e01f77fb871460e5477f70",
+                "reference": "43671cc758500c7f08e01f77fb871460e5477f70",
                 "shasum": ""
             },
             "require": {
@@ -792,7 +792,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-08 13:29:04"
+            "time": "2014-07-09 15:17:35"
         },
         {
             "name": "rbs/shipping",
@@ -848,12 +848,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-stock.git",
-                "reference": "8e73b2124be929ea582566afbc42cba267cac7f0"
+                "reference": "c083e7cb47f9f3e632f5998c8dab1f63b00f5fe7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-stock/zipball/8e73b2124be929ea582566afbc42cba267cac7f0",
-                "reference": "8e73b2124be929ea582566afbc42cba267cac7f0",
+                "url": "https://api.github.com/repos/RBSChange/module-stock/zipball/c083e7cb47f9f3e632f5998c8dab1f63b00f5fe7",
+                "reference": "c083e7cb47f9f3e632f5998c8dab1f63b00f5fe7",
                 "shasum": ""
             },
             "require": {
@@ -864,7 +864,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-06-25 14:57:24"
+            "time": "2014-07-18 21:22:04"
         },
         {
             "name": "rbs/store",
@@ -896,12 +896,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-tag.git",
-                "reference": "c7f611ede31f2d2c03e379aa3dfcb54bece77226"
+                "reference": "7eaccb22d385c27e0fffc646fce88ce3a84d4457"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-tag/zipball/c7f611ede31f2d2c03e379aa3dfcb54bece77226",
-                "reference": "c7f611ede31f2d2c03e379aa3dfcb54bece77226",
+                "url": "https://api.github.com/repos/RBSChange/module-tag/zipball/7eaccb22d385c27e0fffc646fce88ce3a84d4457",
+                "reference": "7eaccb22d385c27e0fffc646fce88ce3a84d4457",
                 "shasum": ""
             },
             "require": {
@@ -912,7 +912,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-06-25 14:57:24"
+            "time": "2014-07-09 15:17:35"
         },
         {
             "name": "rbs/theme",
@@ -920,12 +920,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-theme.git",
-                "reference": "2ab48eb08f311e443f989a17a9c9c3fb76555fa7"
+                "reference": "6416946b993b9c53acb929741b77bca3c06cb182"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-theme/zipball/2ab48eb08f311e443f989a17a9c9c3fb76555fa7",
-                "reference": "2ab48eb08f311e443f989a17a9c9c3fb76555fa7",
+                "url": "https://api.github.com/repos/RBSChange/module-theme/zipball/6416946b993b9c53acb929741b77bca3c06cb182",
+                "reference": "6416946b993b9c53acb929741b77bca3c06cb182",
                 "shasum": ""
             },
             "require": {
@@ -936,7 +936,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-06-25 14:57:24"
+            "time": "2014-07-09 15:17:35"
         },
         {
             "name": "rbs/timeline",
@@ -968,12 +968,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-user.git",
-                "reference": "74f35683130cd9ff6b4dd85d806f6e88c69d623d"
+                "reference": "381acaefd3201dba6688e3549913d40ab3f1c9e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-user/zipball/74f35683130cd9ff6b4dd85d806f6e88c69d623d",
-                "reference": "74f35683130cd9ff6b4dd85d806f6e88c69d623d",
+                "url": "https://api.github.com/repos/RBSChange/module-user/zipball/381acaefd3201dba6688e3549913d40ab3f1c9e0",
+                "reference": "381acaefd3201dba6688e3549913d40ab3f1c9e0",
                 "shasum": ""
             },
             "require": {
@@ -984,7 +984,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-09 08:06:28"
+            "time": "2014-07-18 21:22:04"
         },
         {
             "name": "rbs/website",
@@ -992,12 +992,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-website.git",
-                "reference": "e1cb5528ae31897faf7a210398b58ecf015060a2"
+                "reference": "93d4f87c745d09ac3db27756b9734a896dea13cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-website/zipball/e1cb5528ae31897faf7a210398b58ecf015060a2",
-                "reference": "e1cb5528ae31897faf7a210398b58ecf015060a2",
+                "url": "https://api.github.com/repos/RBSChange/module-website/zipball/93d4f87c745d09ac3db27756b9734a896dea13cc",
+                "reference": "93d4f87c745d09ac3db27756b9734a896dea13cc",
                 "shasum": ""
             },
             "require": {
@@ -1008,7 +1008,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-07-09 08:19:09"
+            "time": "2014-07-21 09:15:03"
         },
         {
             "name": "rbs/wishlist",
@@ -1040,12 +1040,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/module-workflow.git",
-                "reference": "f25a189f03190aaaf3d1a8402437b9e5a87f8bdb"
+                "reference": "4dc7ddf4e161127001e8fce7c9e6b846e0760f2e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/module-workflow/zipball/f25a189f03190aaaf3d1a8402437b9e5a87f8bdb",
-                "reference": "f25a189f03190aaaf3d1a8402437b9e5a87f8bdb",
+                "url": "https://api.github.com/repos/RBSChange/module-workflow/zipball/4dc7ddf4e161127001e8fce7c9e6b846e0760f2e",
+                "reference": "4dc7ddf4e161127001e8fce7c9e6b846e0760f2e",
                 "shasum": ""
             },
             "require": {
@@ -1056,7 +1056,7 @@
             "license": [
                 "MPL-2.0"
             ],
-            "time": "2014-06-25 14:57:24"
+            "time": "2014-07-09 15:17:34"
         },
         {
             "name": "rbschange/core",
@@ -1064,12 +1064,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RBSChange/core.git",
-                "reference": "96eac8166d2142ad565d6e87a8f84a57f77430d4"
+                "reference": "7f35e35a753436c7563885df9dd9ca2f30d94b16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RBSChange/core/zipball/96eac8166d2142ad565d6e87a8f84a57f77430d4",
-                "reference": "96eac8166d2142ad565d6e87a8f84a57f77430d4",
+                "url": "https://api.github.com/repos/RBSChange/core/zipball/7f35e35a753436c7563885df9dd9ca2f30d94b16",
+                "reference": "7f35e35a753436c7563885df9dd9ca2f30d94b16",
                 "shasum": ""
             },
             "require": {
@@ -1096,7 +1096,7 @@
                 "MPL-2.0"
             ],
             "description": "Core RBS Change Package",
-            "time": "2014-07-09 09:40:40"
+            "time": "2014-07-21 09:15:03"
         },
         {
             "name": "rbschange/plugin-installer",
@@ -1185,17 +1185,17 @@
         },
         {
             "name": "symfony/process",
-            "version": "v2.5.1",
+            "version": "v2.5.2",
             "target-dir": "Symfony/Component/Process",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Process.git",
-                "reference": "d923d86617000711813572795e0f8b276739ecb0"
+                "reference": "5e53efbf61a7fbf73c79e3e08feea50f64c20bfa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Process/zipball/d923d86617000711813572795e0f8b276739ecb0",
-                "reference": "d923d86617000711813572795e0f8b276739ecb0",
+                "url": "https://api.github.com/repos/symfony/Process/zipball/5e53efbf61a7fbf73c79e3e08feea50f64c20bfa",
+                "reference": "5e53efbf61a7fbf73c79e3e08feea50f64c20bfa",
                 "shasum": ""
             },
             "require": {
@@ -1230,7 +1230,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "http://symfony.com",
-            "time": "2014-07-08 12:21:33"
+            "time": "2014-07-09 09:05:48"
         },
         {
             "name": "twig/twig",
